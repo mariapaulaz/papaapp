@@ -1,0 +1,6 @@
+distribucion: reparto de un producto desde un punto
+hasta otro en donde se vende. (RAE, 2026)
+cadena: sucesion de alimentos anlazados. (RAE, 2026)
+cadena de destribucion: unin de procesos, personas, empresas y medios que intervienen para que 
+un producto llegue desde el fabricante hasta el punto final
+cadena de distribucion de papa:union de procesos, personas, empresas y medios que intervienen para que la papa llegue desde su cultivo
