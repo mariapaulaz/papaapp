@@ -1,4 +1,5 @@
 agricultor: encargado de cosechar la papa.
+recolector: encargado de recoger la cosecha
 cotero: encargado de subir la papa a los medios de produccion.
 trasportador: conduce el medio de distribucion desde los cultivos hasta el centro de acopio o punto de venta.
 bodeguero: encargado de almacenar la papa.
