@@ -1,0 +1,6 @@
+1. yo como administrador del sistema necesito registrar agricultores
+1.1  yo como administrador necesito tener una base de datos para guardar los datos de los agricultores
+1.2  yo como administrador del sistema necesito guardar los datos que ingresa el usuario 
+en una base de datos
+1.3 yo como administrador del sistema necesito tener un listado de los agricultores registrados en el sistema 
+2.  yo como administrador del sistema necesito registrar coteros

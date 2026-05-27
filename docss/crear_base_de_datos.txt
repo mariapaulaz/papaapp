@@ -1,0 +1,12 @@
+una base de datos es un  lugar para almacenar registro en unformato definido
+las bases de datos relacionales guardan datos en tablas
+1. voy a utilizar pg admin 
+1.1 campos (datos, columnas, propiedades) de la tabla agricultor
+id : identificador unico de registro
+cedula : numero de identidad
+nombre : nombre completo del agricultor
+area : area de papa lista para osechar
+cultivo : variedad de papa cultivada
+inversion : dinero invertido en dolares 
+fecha: fecha de siembra 
+ubicacion_cultivo: poligono georreferenciado de ubicacion del cultivo 

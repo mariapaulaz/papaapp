@@ -1,0 +1,4 @@
+guardar datos en una base de datos
+ yo como administrador del sistema neesito una api que reciba un json con 
+ los datos de un agricultor y los guarde en la base de datos postgrest
+ 
